@@ -1,0 +1,113 @@
+{
+    "title": "The Enron Email Dataset",
+    "description": "Via https://www.cs.cmu.edu/~enron/: This dataset was collected and prepared by the CALO Project (A Cognitive Assistant that Learns and Organizes). It contains data from about 150 users, mostly senior management of Enron, organized into folders. The corpus contains a total of about 0.5M messages. This data was originally made public, and posted to the web, by the Federal Energy Regulatory Commission during its investigation.",
+    "description_html": null,
+    "license": "Released by the Federal Energy Regulatory Commission",
+    "license_url": "https://www.cs.cmu.edu/~enron/",
+    "source": "Enron Email Dataset @ cs.cmu.edu",
+    "source_url": "https://www.cs.cmu.edu/~enron/",
+    "databases": {
+        "enron": {
+            "title": null,
+            "description": null,
+            "description_html": null,
+            "license": null,
+            "license_url": null,
+            "source": null,
+            "source_url": null,
+            "queries": {},
+            "tables": {
+                "emails": {
+                    "title": null,
+                    "description": null,
+                    "description_html": null,
+                    "license": null,
+                    "license_url": null,
+                    "source": null,
+                    "source_url": null
+                },
+                "sqlite_sequence": {
+                    "title": null,
+                    "description": null,
+                    "description_html": null,
+                    "license": null,
+                    "license_url": null,
+                    "source": null,
+                    "source_url": null
+                },
+                "addresses": {
+                    "title": null,
+                    "description": null,
+                    "description_html": null,
+                    "license": null,
+                    "license_url": null,
+                    "source": null,
+                    "source_url": null
+                },
+                "messages": {
+                    "title": null,
+                    "description": null,
+                    "description_html": null,
+                    "license": null,
+                    "license_url": null,
+                    "source": null,
+                    "source_url": null
+                },
+                "messages_addresses": {
+                    "title": null,
+                    "description": null,
+                    "description_html": null,
+                    "license": null,
+                    "license_url": null,
+                    "source": null,
+                    "source_url": null
+                },
+                "messages_ft": {
+                    "title": null,
+                    "description": null,
+                    "description_html": null,
+                    "license": null,
+                    "license_url": null,
+                    "source": null,
+                    "source_url": null
+                },
+                "messages_ft_data": {
+                    "title": null,
+                    "description": null,
+                    "description_html": null,
+                    "license": null,
+                    "license_url": null,
+                    "source": null,
+                    "source_url": null
+                },
+                "messages_ft_idx": {
+                    "title": null,
+                    "description": null,
+                    "description_html": null,
+                    "license": null,
+                    "license_url": null,
+                    "source": null,
+                    "source_url": null
+                },
+                "messages_ft_docsize": {
+                    "title": null,
+                    "description": null,
+                    "description_html": null,
+                    "license": null,
+                    "license_url": null,
+                    "source": null,
+                    "source_url": null
+                },
+                "messages_ft_config": {
+                    "title": null,
+                    "description": null,
+                    "description_html": null,
+                    "license": null,
+                    "license_url": null,
+                    "source": null,
+                    "source_url": null
+                }
+            }
+        }
+    }
+}
